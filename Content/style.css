@@ -111,7 +111,7 @@ h6 { font-size:1em; color:#e7e7e7;}
 #header .logo strong { color:#ad0000; font-size:.91em; padding-left:5px;}
 #header .phones { float:right; font-family:Calibri, Arial, Helvetica, sans-serif; font-size:medium; line-height:1em; color:#c30000; padding:43px 48px 0 0; letter-spacing:-1px;}
 
-.header-box { background:url(Images/main.jpg) no-repeat left top; width:950px; height:364px; }
+.header-box { background:url(Images/header-bg1.jpg) no-repeat left top; width:950px; height:364px; }
 .header-box .inner { padding:307px 0 0 2px;}
 
 .header-box-small { background:url(Images/header-bg-small.jpg) no-repeat left top; width:950px; height:252px; }
